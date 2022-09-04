@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Olá, me chamo Rafael Silva 
 
 [Português - BR]
+
 Engenheiro de Dados, atualmente colaborador da FitBank 450. Comecei na área de Tecnologia da Informação em 2016 como técnico em redes de computadores e permaneço até hoje. Tenho experiência nas área de infraestrutura, negócios e desenvolvimento.
 Hoje desenvolvo com as tecnologias Python, SQL, NoSQL. Além disso, possuo vasta experiência na utilização de metodologias e técnicas como o SCRUM, OKR, KPI, Customer Success, Funil de Vendas, Análise de Dados e com as plataformas Azure DevOps, Zendesk, Google Analytics. 
 Sou guiado a metas e orientado a soluções, buscando cada dia mais a melhoria continua tanto nos meus serviços prestados como também na minha vida. Encaro os desafios de frente e com a determinação necessária para buscar a excelência.
